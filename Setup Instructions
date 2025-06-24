@@ -1,0 +1,4 @@
+gem install bundler jekyll
+jekyll new jekyll-blog
+cd jekyll-blog
+bundle exec jekyll serve
