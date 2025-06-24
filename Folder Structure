@@ -1,0 +1,11 @@
+jekyll-blog/
+├── _posts/
+│   ├── 2025-06-01-first-post.md
+│   └── 2025-06-05-portfolio-tips.md
+├── _layouts/
+│   └── default.html
+├── _includes/
+├── assets/
+├── index.md
+├── _config.yml
+├── README.md
